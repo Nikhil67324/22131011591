@@ -31,8 +31,8 @@ A robust backend microservice built using *Node.js, **Express, **MongoDB, and a 
 
 ## INSTALLATION 
 
-Install dependencies
+-Install dependencies
 - npm install
 
-  Start server
+-Start server
 -  npm start
